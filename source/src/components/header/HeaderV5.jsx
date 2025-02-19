@@ -35,7 +35,7 @@ const HeaderV5 = () => {
                             <div className="attr-nav">
                                 <ul>
                                     <li className="button dark">
-                                        <Link to="/contact-us">Get consultant</Link>
+                                        <Link to="/contact-us">Dapatkan Penawaran Harga</Link>
                                     </li>
                                 </ul>
                             </div>

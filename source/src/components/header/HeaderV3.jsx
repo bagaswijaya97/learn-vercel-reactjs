@@ -35,7 +35,7 @@ const HeaderV3 = () => {
                             <div className="attr-nav">
                                 <ul>
                                     <li className="button">
-                                        <Link to="/contact-us">Get consultant</Link>
+                                        <Link to="/contact-us">Dapatkan Penawaran Harga</Link>
                                     </li>
                                 </ul>
                             </div>

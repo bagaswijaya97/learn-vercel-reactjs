@@ -53,7 +53,7 @@ const BannerV2 = () => {
                                             <h4>Meet Consulting</h4>
                                             <h2><strong>Financial Analysis</strong> Developing Meeting.</h2>
                                             <div className="button">
-                                                <Link className="btn circle btn-gradient btn-md radius animation" to="/contact-us">Get Consultant</Link>
+                                                <Link className="btn circle btn-gradient btn-md radius animation" to="/contact-us">Dapatkan Penawaran Harga</Link>
                                             </div>
                                             <div className="shape-circle" />
                                         </div>
@@ -75,7 +75,7 @@ const BannerV2 = () => {
                                             <h4>Coaching &; Consulting</h4>
                                             <h2><strong>Proper solution</strong> for business growth</h2>
                                             <div className="button">
-                                                <Link className="btn circle btn-gradient btn-md radius animation" to="/contact-us">Get Consultant</Link>
+                                                <Link className="btn circle btn-gradient btn-md radius animation" to="/contact-us">Dapatkan Penawaran Harga</Link>
                                             </div>
                                             <div className="shape-circle" />
                                         </div>
